@@ -1,0 +1,9 @@
+Collaborate with project teams, leaders and managers to determine and address 
+data and reporting needs for various company projects.Assess and document sources
+, structures and types of available business data.Perform profiling and integration
+ assessments across source data sets.Assemble and document supporting metadata and
+ lineageDetermine the meaning of data and explain how various teams and leaders can
+ leverage it to improve and streamline their processes.Perform quality and accessibility
+ testing and verification of ingested data setsCreate reports / presentations to share your
+ findings and usage recommendations with the internal team and other stakeholders.Create detailed descriptions, definitions and integration requirements to be used by delivery teams for creating integrated,
+ sharable data sets
